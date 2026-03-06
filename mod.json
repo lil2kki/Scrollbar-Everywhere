@@ -18,6 +18,6 @@
 		"source": "https://github.com/lil2kki/Scrollbar-Everywhere"
 	},
 	"dependencies": {
-		"alphalaneous.alphas_geode_utils": ">=1.0.4",
+		"alphalaneous.alphas_geode_utils": ">=1.0.4"
 	}
 }
